@@ -49,3 +49,20 @@ This Flask application is designed to classify images as either cats or dogs usi
 
 - The model file (model.h5) is generated after running the Train.py script. You can modify the training parameters in Train.py to customize the model.
 - You can replace the model file (model.h5) with your custom-trained model if needed.
+
+## Results
+- Choosing Image
+
+![Choose Image](https://github.com/SearingShot/Cat_vs_Dog_Classification_using_flask/assets/121299642/8c38db5e-0ada-4f70-bb59-77b952013433)
+
+
+- Selecting the Image
+
+![Selecting The Image](https://github.com/SearingShot/Cat_vs_Dog_Classification_using_flask/assets/121299642/c8b622cb-a7f4-4e0f-803a-60bdb6c6ed04)
+
+
+- Result
+
+![Result](https://github.com/SearingShot/Cat_vs_Dog_Classification_using_flask/assets/121299642/ba4e94be-80c7-40fa-867b-a015cdbcec7b)
+
+
