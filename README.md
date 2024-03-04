@@ -12,11 +12,13 @@ This Flask application is designed to classify images as either cats or dogs usi
 
 2. **Install Dependencies:** Install all the required Python libraries using pip.
 
-3. **Train the Model:** Before running the Flask app, you need to train the model by executing the Train.py script. This script will generate the model file (model.h5) required for classification.
+3. **Download the Dataset:** Get The Dataset from here :- [Data](https://github.com/laxmimerit/dog-cat-full-dataset.git)
 
-4. **Run the Flask App:** Execute the main.py file to start the Flask application.
+4. **Train the Model:** Before running the Flask app, you need to train the model by executing the Train.py script. This script will generate the model file (model.h5) required for classification.
 
-5. **Access the Web Application:** Open your web browser and go to [http://localhost:5000](http://localhost:5000) to access the application.
+5. **Run the Flask App:** Execute the main.py file to start the Flask application.
+
+6. **Access the Web Application:** Open your web browser and go to [http://localhost:5000](http://localhost:5000) to access the application.
 
 ## Usage Instructions
 
