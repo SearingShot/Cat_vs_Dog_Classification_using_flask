@@ -14,15 +14,7 @@ This Flask application is designed to classify images as either cats or dogs usi
 
 3. **Train the Model:** Before running the Flask app, you need to train the model by executing the Train.py script. This script will generate the model file (model.h5) required for classification.
 
-    ```bash
-    python Train.py
-    ```
-
 4. **Run the Flask App:** Execute the main.py file to start the Flask application.
-
-    ```bash
-    python main.py
-    ```
 
 5. **Access the Web Application:** Open your web browser and go to [http://localhost:5000](http://localhost:5000) to access the application.
 
